@@ -12,7 +12,7 @@ currently being supported with security updates.
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability9c868847c44ce6cdb81bc95fa6d99bf1ff2fd4279c868847c44ce6cdb81bc95fa6d99bf1ff2fd427
 
 Use this section to tell people how to report a vulnerability.
 
